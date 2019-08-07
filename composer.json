@@ -1,6 +1,6 @@
 {
-    "name": "freedomsex/timer-token-service",
-    "description": "A simple `timer-token` service based on creation time.",
+    "name": "freedomsex/time-token-service",
+    "description": "A simple `time-token` service based on creation time.",
     "type": "library",
     "version": "0.0.1",
     "license": "MIT",
